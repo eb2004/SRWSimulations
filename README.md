@@ -1,2 +1,2 @@
-# SRWSimulations
-Simple random walk simulations
+## SRWSimulations
+#Simple random walk simulations
